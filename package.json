@@ -17,6 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "@glennsl/bs-jest": "^0.4.7",
+    "bs-music-theory": "https://github.com/mattmarcello/bs-music-theory",
     "bsdoc": "^0.1.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
