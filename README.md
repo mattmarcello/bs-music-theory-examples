@@ -1,6 +1,8 @@
 # bs-music-theory-examples
 
-Reproduction of [this demo](https://github.com/cemolcay/MusicTheory/blob/master/Playground.playground/Contents.swift)
+For now, just a reproduction of [this demo](https://github.com/cemolcay/MusicTheory/blob/master/Playground.playground/Contents.swift).
+
+Anyone should feel free to make contributions.  
 
 
 
